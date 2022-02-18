@@ -5,7 +5,7 @@
  
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me insta @barfa__a
+- 📫 How to reach me insta zeinab.izadi1999@gmail.com
 
 <!---
 zeynabizadi/zeynabizadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
