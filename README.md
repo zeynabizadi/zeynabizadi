@@ -1,4 +1,4 @@
- # Hi, I’m zeynabizadi👋
+ # Hi👋, I’m zeynabizadi
                                                                             
 - 🌱 I’m currently learning javascript
 
