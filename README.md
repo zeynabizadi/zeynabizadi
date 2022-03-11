@@ -1,4 +1,9 @@
- # Hi👋, I’m zeynabizadi
+<center>
+ 
+ # Hi👋, I’m zeynabizadi 
+ 
+ </center>
+ 
                                                                             
 - 🌱 I’m currently learning javascript
 
@@ -8,6 +13,11 @@
 
 
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeynabizadi&layout=compact&hide=html)
 
 ![Status](https://github-readme-stats.vercel.app/api?username=zeynabizadi&show_icons=true&count_private=true)
+
+![Days](https://github-readme-streak-stats.herokuapp.com/?user=zeynabizadi)
+
+
 
