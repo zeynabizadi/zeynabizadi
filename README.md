@@ -4,7 +4,7 @@
  
 </div>
                                                                             
-🌱 I’m currently learning Reactjs
+🌱 I’m currently learning Java Script
 
 - ✨ I love learning ✨
 
