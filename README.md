@@ -14,8 +14,10 @@
 ---
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeynabizadi&layout=compact&hide=html,php)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeynabizadi&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynabizadi_icons=true&theme=tokyonight)
+
 
 ![Days](https://github-readme-streak-stats.herokuapp.com/?user=zeynabizadi)
