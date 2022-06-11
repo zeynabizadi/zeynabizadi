@@ -13,7 +13,7 @@
 
 ---
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeynabizadi&layout=compact&hide=html)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeynabizadi&layout=compact&hide=html,php)
 
 ![Status](https://github-readme-stats.vercel.app/api?username=zeynabizadi&show_icons=true&count_private=true)
 
