@@ -13,11 +13,11 @@
 
 ---
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeynabizadi&layout=compact&hide=html,php)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeynabizadi&layout=compact&hide=html,php&theme=radical)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeynabizadi&show_icons=true&theme=radical)
 
 
 
-![Days](https://github-readme-streak-stats.herokuapp.com/?user=zeynabizadi)
+![Days](https://github-readme-streak-stats.herokuapp.com/?user=zeynabizadi&theme=radical)
