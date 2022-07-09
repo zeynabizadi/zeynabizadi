@@ -4,7 +4,7 @@
  
 </div>
                                                                             
-🌱 I’m currently learning Java Script
+🌱 I’m currently learning next js
 
 - ✨ I love learning ✨
 
