@@ -1,6 +1,6 @@
 <div align="center">
  
- # Hi👋 , I’m zeynabizadi
+ # Hi , I’m zeynabizadi
  
 </div>
                                                                             
