@@ -4,8 +4,7 @@
  
 </div>
                                                                             
-🌱 I’m currently learning next js
-
+🌱 PHP
 - ✨ I love learning ✨
 
 - 📫 How to reach me  zeinab.izadi1999@gmail.com
