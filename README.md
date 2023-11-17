@@ -7,7 +7,7 @@
 🌱 
 - ✨ I love learning ✨
 
-- 📫 How to reach me  zeinab.izadi1999@gmail.com
+- 📫 How to reach me  zeinab.izadi1999@gmail.com  & www.linkedin.com/in/zeynabizadi
 
 
 ---
